@@ -4,7 +4,7 @@
 
 ```yml
 POST /cakes
-    - Deve receber as informações necessárias para a criação de um novo tipo de bolo.
+    - Deve receber as informações necessárias para a criação de um novo tipo de produto.
     - headers: {}
     - body:{
         "name": "Bolo de pote",
